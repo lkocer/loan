@@ -1,0 +1,39 @@
+{
+    "errorCode": 200,
+    "errorMsg": "请求成功！",
+    "data": [
+        {
+            "id": 1,
+            "name": "测试 贷款",
+            "label": null,
+            "feature": null,
+            "applyNo": null,
+            "featureLabel": null,
+            "url": "http://www.baidu.com",
+            "ad": 1,
+            "adUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975705095&di=6b8157159af02171d0ce4b4c524749fc&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0117e2571b8b246ac72538120dd8a4.jpg%401280w_1l_2o_100sh.jpg"
+        },
+        {
+            "id": 2,
+            "name": "贷款",
+            "label": null,
+            "feature": null,
+            "applyNo": null,
+            "featureLabel": null,
+            "url": "http://www.baidu.com",
+            "ad": 1,
+            "adUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975724086&di=eda5803ef9510cc025362fd2241e34c9&imgtype=0&src=http%3A%2F%2Fimg05.tooopen.com%2Fimages%2F20150820%2Ftooopen_sy_139205349641.jpg"
+        },
+        {
+            "id": 3,
+            "name": "贷款34",
+            "label": null,
+            "feature": null,
+            "applyNo": null,
+            "featureLabel": null,
+            "url": "http://www.baidu.com",
+            "ad": 1,
+            "adUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975733371&di=e998b8056b220119c31658e1b180a0e0&imgtype=0&src=http%3A%2F%2Fimg03.tooopen.com%2Fuploadfile%2Fdowns%2Fimages%2F20110714%2Fsy_20110714135215645030.jpg"
+        }
+    ]
+}

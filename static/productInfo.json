@@ -1,0 +1,41 @@
+{
+    "errorCode": 200,
+    "errorMsg": "请求成功！",
+    "data": {
+        "id": 1,
+        "name": "测试 贷款",
+        "status": null,
+        "loanAmount": "1-30000",
+        "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531976154145&di=0d53914e1606be492184c4d938586799&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F14%2F62%2F50%2F62558PICxm8_1024.jpg",
+        "ad": 0,
+        "adUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531976154145&di=0d53914e1606be492184c4d938586799&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F14%2F62%2F50%2F62558PICxm8_1024.jpg",
+        "termRange": "3-12",
+        "fastestLoan": "10",
+        "label": "最热，最新",
+        "feature": "1千到20万，快至10分钟下款",
+        "applyNo": "3500",
+        "details": "此产品申请流程快，需要资料少",
+        "applyCondition": [
+            {
+                "condition": "通话记录"
+            },
+            {
+                "condition": "银行流水"
+            },
+            {
+                "condition": "芝麻分"
+            }
+        ],
+        "document": [
+            {
+                "document": "身份证"
+            },
+            {
+                "document": "手机号码"
+            }
+        ],
+        "cts": 1531809335000,
+        "uts": null,
+        "featureLabel": "5分钟申请，2小时到账"
+    }
+}

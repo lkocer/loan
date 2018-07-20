@@ -1,0 +1,87 @@
+{
+    "errorCode": 200,
+    "errorMsg": "请求成功！",
+    "data": {
+        "total": 3,
+        "ProductPoJo": [
+            {
+                "id": 3,
+                "name": "贷款34",
+                "label": "最热，最新，最快",
+                "feature": "1千到5万，快至10分钟下款",
+                "applyNo": "4563",
+                "featureLabel": "1分钟申请，1小时到账",
+                "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532570692&di=5ca94f6ab79bb09ceac8a1e652163161&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F017fcc5535f1710000001e3101c50c.jpg",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 1,
+                "name": "测试 贷款",
+                "label": "最热，最新",
+                "feature": "1千到20万，快至10分钟下款",
+                "applyNo": "3500",
+                "featureLabel": "5分钟申请，2小时到账",
+                "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975929637&di=41d31313902b05ebbb75f32ad900bad1&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F14%2F62%2F50%2F62558PICxm8_1024.jpg",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "name": "贷款",
+                "label": "最热",
+                "feature": "1千到5万，快至10分钟下款",
+                "applyNo": "3000",
+                "featureLabel": "3分钟申请，2小时到账",
+                "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975987215&di=320ce38252149c2266a80ee4153c9b50&imgtype=0&src=http%3A%2F%2Fwww.taopic.com%2Fuploads%2Fallimg%2F140113%2F267874-1401130T5468.jpg",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 1,
+                "name": "测试 贷款",
+                "label": "最热，最新",
+                "feature": "1千到20万，快至10分钟下款",
+                "applyNo": "3500",
+                "featureLabel": "5分钟申请，2小时到账",
+                "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975996208&di=d0ef6290992807fde9138df6ccc8b061&imgtype=0&src=http%3A%2F%2Fpic20.nipic.com%2F20120504%2F9174242_113752197000_2.jpg",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 1,
+                "name": "测试 贷款",
+                "label": "最热，最新",
+                "feature": "1千到20万，快至10分钟下款",
+                "applyNo": "3500",
+                "featureLabel": "5分钟申请，2小时到账",
+                "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975929637&di=41d31313902b05ebbb75f32ad900bad1&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F14%2F62%2F50%2F62558PICxm8_1024.jpg",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "name": "贷款",
+                "label": "最热",
+                "feature": "1千到5万，快至10分钟下款",
+                "applyNo": "3000",
+                "featureLabel": "3分钟申请，2小时到账",
+                "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975987215&di=320ce38252149c2266a80ee4153c9b50&imgtype=0&src=http%3A%2F%2Fwww.taopic.com%2Fuploads%2Fallimg%2F140113%2F267874-1401130T5468.jpg",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 1,
+                "name": "测试 贷款",
+                "label": "最热，最新",
+                "feature": "1千到20万，快至10分钟下款",
+                "applyNo": "3500",
+                "featureLabel": "5分钟申请，2小时到账",
+                "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1531975996208&di=d0ef6290992807fde9138df6ccc8b061&imgtype=0&src=http%3A%2F%2Fpic20.nipic.com%2F20120504%2F9174242_113752197000_2.jpg",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            }
+        ],
+        "pageNum": 0
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "errorCode": 200,
+    "errorMsg": "请求成功！",
+    "data": {
+        "total": 3,
+        "ProductPoJo": [
+            {
+                "id": 1,
+                "name": "测试 贷款",
+                "label": "最热，最新",
+                "feature": "1千到20万，快至10分钟下款",
+                "applyNo": "3500",
+                "featureLabel": "5分钟申请，2小时到账",
+                "url": null,
+                "ad": null,
+                "adUrl": null
+            },
+            {
+                "id": 2,
+                "name": "贷款",
+                "label": "最热",
+                "feature": "1千到5万，快至10分钟下款",
+                "applyNo": "3000",
+                "featureLabel": "3分钟申请，2小时到账",
+                "url": null,
+                "ad": null,
+                "adUrl": null
+            },
+            {
+                "id": 3,
+                "name": "贷款34",
+                "label": "最热，最新，最快",
+                "feature": "1千到5万，快至10分钟下款",
+                "applyNo": "4563",
+                "featureLabel": "1分钟申请，1小时到账",
+                "url": null,
+                "ad": null,
+                "adUrl": null
+            },
+            {
+                "id": 1,
+                "name": "测试 贷款",
+                "label": "最热，最新",
+                "feature": "1千到20万，快至10分钟下款",
+                "applyNo": "3500",
+                "featureLabel": "5分钟申请，2小时到账",
+                "url": "http://www.baidu.com",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "name": "贷款",
+                "label": "最热",
+                "feature": "1千到5万，快至10分钟下款",
+                "applyNo": "3000",
+                "featureLabel": "3分钟申请，2小时到账",
+                "url": "http://www.baidu.com",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 1,
+                "name": "测试 贷款",
+                "label": "最热，最新",
+                "feature": "1千到20万，快至10分钟下款",
+                "applyNo": "3500",
+                "featureLabel": "5分钟申请，2小时到账",
+                "url": "http://www.baidu.com",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            },
+            {
+                "id": 2,
+                "name": "贷款",
+                "label": "最热",
+                "feature": "1千到5万，快至10分钟下款",
+                "applyNo": "3000",
+                "featureLabel": "3分钟申请，2小时到账",
+                "url": "http://www.baidu.com",
+                "ad": 1,
+                "adUrl": "http://www.baidu.com"
+            }
+        ],
+        "pageNum": 0
+    }
+}

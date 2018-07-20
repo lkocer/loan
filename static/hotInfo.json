@@ -1,0 +1,27 @@
+{
+    "errorCode": 200,
+    "errorMsg": "请求成功！",
+    "data": {
+        "applyNo": 2250,
+        "events": [
+            {
+                "id": null,
+                "productName": "宜人贷",
+                "event": "王** 18753****** 今日借款1500元已到账",
+                "ts": null
+            },
+            {
+                "id": null,
+                "productName": "融360",
+                "event": "王** 13167****** 今日借款1300元已到账",
+                "ts": null
+            },
+            {
+                "id": null,
+                "productName": "任性付",
+                "event": "张** 15829****** 今日借款800元已到账",
+                "ts": null
+            }
+        ]
+    }
+}
