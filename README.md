@@ -1,6 +1,6 @@
 # loanFlow
 
-> 融贷之家
+> 融贷之家  基于vue-cli、vue-router、webpack的单页面练手应用
 
 ## Build Setup
 
